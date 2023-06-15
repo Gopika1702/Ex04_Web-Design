@@ -26,9 +26,11 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+![WhatsApp Image 2023-06-15 at 7 02 48 PM](https://github.com/selvasachein/Ex04_Web-Design/assets/127816473/fabe38f5-b200-40d9-82b0-f83d7562e98b)
 
 
 ## OUTPUT
+![WhatsApp Image 2023-06-15 at 7 03 50 PM](https://github.com/selvasachein/Ex04_Web-Design/assets/127816473/b45bae93-4458-4d22-ace0-d95a670c464a)
 
 
 ## RESULT
